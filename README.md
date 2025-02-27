@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/G0Tx1Xn.gif" alt="Header GIF">
+  <img src="https://i.imgur.com/AzfO4KZ.gif" alt="Header GIF">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ruhi Patil</h1>
