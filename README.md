@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ruhi Patil</h1>
-<h3 align="center">Passionate Programmer</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -11,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ruhi-patil-220315291" target="blank"></a>
+  <a href="https://www.linkedin.com/in/ruhi-patil-220315291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ruhi Patil" height="30" width="40" /></a>
 </p>
 
 
