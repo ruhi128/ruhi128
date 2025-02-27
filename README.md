@@ -6,47 +6,48 @@
 
 🔹 **Computer Engineering Student | Tech Enthusiast**  
 
-- 🌱 I’m currently learning **Web Development & Java**  
+- 🌱 I’m currently learning **Web Development**  
 - 📫 How to reach me **ruhijp12@gmail.com**  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ruhi-patil-220315291" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ruhi Patil" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### 🚀 **Skills & Technologies**  
+## 🚀 **Skills & Technologies**  
 
-#### **Programming Languages:**  
+### **💻 Programming Languages:**  
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c" height="40">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40">
+  <img src="https://skillicons.dev/icons?i=python" height="40">
+  <img src="https://skillicons.dev/icons?i=java" height="40">
 </p>
 
-#### **Web Development:**  
+### **🌐 Web Development:**  
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html" height="40">
+  <img src="https://skillicons.dev/icons?i=css" height="40">
 </p>
 
-#### **Tools & Technologies:**  
+### **🛠 Tools & Technologies:**  
 <p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40">
 </p>
 
 ---
 
-💡 **Currently Exploring:**  
-- Expanding my web development skills  
-
+### 💡 **Currently Exploring:**  
+- Enhancing my **Web Development** skills
+- 
 ---
 
-✨ **Check out my projects on GitHub!**  
+### ✨ **Check out my projects on GitHub!**  
+
 
 <!--
 **ruhi128/ruhi128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
