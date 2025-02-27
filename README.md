@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Header GIF">
 </p>
 
-<h1 align="center">Hi 👋, I'm Ruhi Patil</h1>
+<h1 align="center">Hello 👋, I'm Ruhi Patil</h1>
 
 🔹 **Computer Engineering Student | Tech Enthusiast**  
 
