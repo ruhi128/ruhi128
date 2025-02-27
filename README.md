@@ -12,7 +12,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ruhi-patil-220315291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 ### 💡 **Currently Exploring:**  
 - Enhancing my **Web Development** skills
-- 
+  
 ---
 
 ### ✨ **Check out my projects on GitHub!**  
