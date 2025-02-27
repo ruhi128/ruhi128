@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="MasterHead">
+  <img src="https://i.imgur.com/G0Tx1Xn.gif" alt="Header GIF">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ruhi Patil</h1>
